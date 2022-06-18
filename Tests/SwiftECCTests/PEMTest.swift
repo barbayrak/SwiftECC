@@ -6,6 +6,8 @@
 //
 
 import XCTest
+import SwiftECC
+import BInt
 
 class PEMTest: XCTestCase {
 

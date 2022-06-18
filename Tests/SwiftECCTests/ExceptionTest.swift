@@ -6,8 +6,10 @@
 //
 
 import XCTest
+import SwiftECC
+import BInt
 import ASN1
-import BigInt
+import BInt
 
 class ExceptionTest: XCTestCase {
 

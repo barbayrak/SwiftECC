@@ -6,7 +6,9 @@
 //
 
 import XCTest
-import BigInt
+import SwiftECC
+import BInt
+import BInt
 import ASN1
 
 class FuzzTest: XCTestCase {

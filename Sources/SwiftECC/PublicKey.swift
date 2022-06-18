@@ -7,7 +7,7 @@
 
 import Foundation
 import ASN1
-import BigInt
+import BInt
 
 ///
 /// An Elliptic Curve public key

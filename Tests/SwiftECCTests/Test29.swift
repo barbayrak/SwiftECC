@@ -6,7 +6,9 @@
 //
 
 import XCTest
-import BigInt
+import SwiftECC
+import BInt
+import BInt
 
 // Test a home made prime characteristic domain - Guide to Elliptic Curve Cryptography - example 3.5
 

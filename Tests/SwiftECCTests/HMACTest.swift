@@ -6,6 +6,8 @@
 //
 
 import XCTest
+import SwiftECC
+import BInt
 
 // Test vectors from RFC 2202 and RFC 4231
 

@@ -370,7 +370,7 @@ You can create your own domains as illustrated by the two examples below.
 This is example 3.5 from [GUIDE]. It shows how to make your own prime characteristic domain.
 
     import SwiftECC
-    import BigInt
+    import BInt
     
     // Create the domain
     let domain = try Domain.instance(name: "EC29", p: BInt(29), a: BInt(4), b: BInt(20), gx: BInt(1), gy: BInt(5), order: BInt(37), cofactor: 1)
@@ -405,7 +405,7 @@ giving<br/>
 This is example 3.6 from [GUIDE]. It shows how to make your own characteristic 2 domain.
 
     import SwiftECC
-    import BigInt
+    import BInt
 	
     // Reduction polynomial for x^4 + x^1 + 1    
     let rp = RP(4, 1)

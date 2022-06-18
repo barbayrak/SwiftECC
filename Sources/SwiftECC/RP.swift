@@ -5,7 +5,7 @@
 //  Created by Leif Ibsen on 26/10/2019.
 //
 
-import BigInt
+import BInt
 
 ///
 /// RP instances contain reduction polynomials like

@@ -6,6 +6,8 @@
 //
 
 import XCTest
+import SwiftECC
+import BInt
 
 /*
  Test compatibility with IBM's BlueECC product.

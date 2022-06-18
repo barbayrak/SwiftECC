@@ -6,6 +6,8 @@
 //
 
 import XCTest
+import SwiftECC
+import BInt
 import ASN1
 
 class KeysTest: XCTestCase {

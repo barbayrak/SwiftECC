@@ -6,7 +6,9 @@
 //
 
 import XCTest
-import BigInt
+import SwiftECC
+import BInt
+import BInt
 
 // Test the twisted brainpool domains
 
