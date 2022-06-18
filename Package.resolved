@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "asn1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/barbayrak/ASN1",
+      "state" : {
+        "revision" : "082998963f706e5e90e176a86740cf1f243532d2",
+        "version" : "3.0.0"
+      }
+    },
+    {
+      "identity" : "bint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/barbayrak/BInt",
+      "state" : {
+        "revision" : "674749d2c12db61997105422521a0f8a08f9b3b7",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
